@@ -66,5 +66,3 @@ console.log(`includes("honda"): ${product.includes("honda")}`);
 const text5 = "hello world";
 console.log(`Original: "${text5}"`);
 console.log(`replace("world", "everyone"): "${text5.replace("world", "everyone")}"`);
-
-
